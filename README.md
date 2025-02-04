@@ -19,15 +19,19 @@ Descriptions of some of my projects, and the technologies I've worked with befor
 
 ---
 
-> [!NOTE]
-> Reserved space for projects list!
+## 👨‍💻 Projects
+
+| Project               | Description |
+| --------------------- | ----------- |
+| **Microservices-project** | Based on a case of an auction house, in which I contributed interviews to a bigger analysis of the user experience of common auction houses. Domain Driven Design (DDD) was used to identify the necessary services.<br><br>This resulted in a project consisting of 5 microservices, that use RabbitMQ for communication and MongoDB as a database - all deployed as Azure containers using bicep scripts. |
+| **Reddit clone**          | Having to construct a barebone with the same functionality as Reddit (threads, comments, up- & downvotes), I created a clone individually, using Entity Framework to store data in an SQLite database.<br><br>The frontend was developed using BlazorWASM (C#/.NET), and was made to be a SPA (Single Page App), which communicated with an API to perform actions on backend - this did not include authentication. |
 
 ---
 
 ## 🛠️ Tech Stack
 
 > [!IMPORTANT] 
-> The list above is **NOT** an exhaustive or final list of known tools, languages, resources etc.
+> The list below is **NOT** an exhaustive or final list of known tools, languages, resources etc.
 
 ### 🌐 Languages & Frameworks
 <p align="left">
